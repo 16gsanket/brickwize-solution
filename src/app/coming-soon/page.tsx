@@ -40,7 +40,7 @@ export default function ComingSoon() {
   return (
     <div
       className="min-h-screen bg-cover bg-center flex items-center justify-center"
-      style={{ backgroundImage: "url('/bg.jpg')" }}
+      style={{ backgroundImage: "url('https://res.cloudinary.com/ddodvrq4x/image/upload/v1749832715/samples/brickwize-solution_bg.webp')" }}
     >
       <div className="bg-white/10 backdrop-blur-sm border border-white/20 p-10 rounded-2xl shadow-xl text-center max-w-lg w-full text-white">
         <h1 className="text-3xl sm:text-4xl font-bold mb-4">Building Solution</h1>
